@@ -32,6 +32,6 @@ Used Boxplots to identify outliers in both groups. The distribution of views was
 * The analysis confirmed that both groups were exposed to the content with equal intensity (median of 12–13 impressions). This ensures that the results were not biased by uneven ad delivery.
 * The discovery of significant outliers (users with 100+ impressions) suggests an opportunity for cost savings. Implementing a "frequency cap" could prevent over-exposure and save marketing budget without sacrificing conversions.
 
-## Files
+## Files Description
 1. Original file `marketing_AB.csv`.
-2. Jupyter Notebook `a_b_marketing.ipynb`.
+2. Jupyter Notebook Python code are in file `a_b_marketing.ipynb`.
