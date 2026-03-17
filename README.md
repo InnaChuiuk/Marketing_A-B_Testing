@@ -33,5 +33,5 @@ Used Boxplots to identify outliers in both groups. The distribution of views was
 * The discovery of significant outliers (users with 100+ impressions) suggests an opportunity for cost savings. Implementing a "frequency cap" could prevent over-exposure and save marketing budget without sacrificing conversions.
 
 ## Files Description
-1. Original file `marketing_AB.csv`.
+1. Original file `original_file_marketing_AB.csv`.
 2. Jupyter Notebook Python code are in file `a_b_marketing.ipynb`.
